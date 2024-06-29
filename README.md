@@ -25,10 +25,10 @@ The dataset used in this project includes information such as:
 
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/COVID-19-Data-Analysis/blob/main/Screenshot%20(1067).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/COVID-19-Data-Analysis/blob/main/Screenshot%20(1068).png?raw=true">
-</div>
+</div><br><br>
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/COVID-19-Data-Analysis/blob/main/Screenshot%20(1069).png?raw=true">
-</div>
+</div><br><br>
